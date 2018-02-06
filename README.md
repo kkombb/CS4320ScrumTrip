@@ -1,7 +1,6 @@
-# CS4320ScrumTrip
+# CS4320 Scrum Trip
 
-SCRUM Project
-Members on the team:
+##Members on the team:
 1.	Roland
 2.	Joey
 3.	Kirtis
@@ -9,7 +8,7 @@ Members on the team:
 5.	Bruce
 6.	Matt
 
-Who’s all in attendance:
+##Who’s all in attendance:
 1.	Roland
 2.	Joey
 3.	Kirtis
@@ -17,35 +16,14 @@ Who’s all in attendance:
 5.	Bruce
 6.	Matt
 
-Destination:
-* = Top 20 most expensive cities to travel 
-•	International:
-o	London, England*
-o	Sydney, Australia*
-o	Amsterdam, Netherlands 
-o	Istanbul, Turkey
-o	Florence, Italy
-o	Honk Kong*
+##Destination:
+Italy
 
-•	US Territories:
-o	New York, New York*
-o	Los Angeles, California*
-o	New Orleans, Louisiana
-o	Honolulu, Hawaii
-o	Washington, D.C.
-o	Phoenix, Arizona
 
-Budget:
-•	6 Students * $1,000-$1,500 = $6,000-$9,000 (total)
+##Budget:
 
-Length:
-•	7-15 days
-Purpose:
-•	Sight-seeing
-•	Cruise
-•	Appreciation of the arts
-•	Winery visit
-•	Snorkeling
-•	Night life
-•	Experiencing multicultural ways of life
+
+##Length:
+7-15 days
+
 
