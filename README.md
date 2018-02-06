@@ -1,20 +1,20 @@
 # CS4320 Scrum Trip
 
 ## Members on the team:
-1.	Roland
-2.	Joey
-3.	Kirtis
-4.	Collin
-5.	Bruce
-6.	Matt
+1.	Roland Oruche
+2.	Joey Crowe
+3.	Kirtis Orendorff
+4.	Collin Stevens
+5.	Bruce Phommaly
+6.	Matt Barber
 
 ## Who’s all in attendance:
-1.	Roland
-2.	Joey
-3.	Kirtis
-4.	Collin
-5.	Bruce
-6.	Matt
+1.	Roland Oruche
+2.	Joey Crowe
+3.	Kirtis Orendorff
+4.	Collin Stevens
+5.	Bruce Phommaly
+6.	Matt Barber
 
 ## Destination:
 New York City, New York
