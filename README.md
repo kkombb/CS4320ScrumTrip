@@ -1,6 +1,6 @@
 # CS4320 Scrum Trip
 
-##Members on the team:
+## Members on the team:
 1.	Roland
 2.	Joey
 3.	Kirtis
@@ -8,7 +8,7 @@
 5.	Bruce
 6.	Matt
 
-##Who’s all in attendance:
+## Who’s all in attendance:
 1.	Roland
 2.	Joey
 3.	Kirtis
@@ -16,14 +16,16 @@
 5.	Bruce
 6.	Matt
 
-##Destination:
-Italy
+## Destination:
+New York City, New York
 
+## Budget:
+$12000 total ($2000 per person)
 
-##Budget:
+## Length:
+7 days
 
-
-##Length:
-7-15 days
+## Purpose:
+To explore a new city, go to NYHC concerts, and experience the nightlife of a major city.
 
 
