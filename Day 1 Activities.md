@@ -8,4 +8,3 @@
 * Night Life ($150 for drinks/food/etc): 11 pm -1 am 
 --- Bars near St. Vitus: **Tommy's Tavern, Troost, T.B.D. Brooklyn**
 * Uber back to **hotel** ($16.42): 1 am
-
