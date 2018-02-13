@@ -1,14 +1,14 @@
 # Day 3 Activities:
-## Morning Activities​
+## Morning Activities
 * 1 UberXL from hotel to breakfast restaurant at 9:00-9:15am 
- Price = $16.80
+ * Price = $16.80
 * 9:30-10:30am breakfast at **Barney Greengrass** 
  Price $9.49 * 6 = $56.94
 * UberXL to **Times Square** 11:00-11:15pm
 Price = $12.40
 ## Afternoon Activities
-* Sight seeing 11:15 - 3:30pm
-* Shopping 3:30-5:00pm
+* **Sight seeing** 11:15 - 3:30pm
+* **Shopping** 3:30-5:00pm
 Prices $120 * 6 = $720
 * UberXL to **Hotel** 5:00-5:20pm
 Price = $16.80
