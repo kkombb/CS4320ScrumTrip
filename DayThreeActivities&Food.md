@@ -19,4 +19,4 @@
 (Price = $14 * 6 = $84)
 * UberXL back to **Hotel** 10:30-10:50pm
 (Price = $23.10)
-## Total Expenses = $1487.14
+## Total Expenses = $767.14
