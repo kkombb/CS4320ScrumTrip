@@ -9,7 +9,7 @@
 ## Afternoon Activities
 * **Sight seeing** 11:15 - 3:30pm
 * **Shopping** 3:30-5:00pm
-(Prices $120 * 6 = $720)
+(Price $120 * 6 = $720)
 * UberXL to **Hotel** 5:00-5:20pm
 (Price = $16.80)
 ## Night Activities
