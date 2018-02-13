@@ -3,7 +3,7 @@
 #### Less:
 * Flights: $0
 * Lodging: $0
-* Meals: $275
+* Meals: $415.94
 * Entertainment: $150
 * Ground Transportation: $0
 #### Total: $0
