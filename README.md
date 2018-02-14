@@ -2,6 +2,10 @@
 
 [Flight Details](FlightsFile.md)
 
+
+
+[Budget](CS4320TripMasterBudget.md)
+
 ## Members on the team:
 1.	Roland Oruche
 2.	Joey Crowe
