@@ -1,5 +1,7 @@
 # CS4320 Scrum Trip
 
+[Flight Details](../CS 4320 Trip Project/FlightsFile.md)
+
 ## Members on the team:
 1.	Roland Oruche
 2.	Joey Crowe
@@ -27,5 +29,3 @@ $12000 total ($2000 per person)
 
 ## Purpose:
 To explore a new city, go to NYHC concerts, and experience the nightlife of a major city.
-
-
