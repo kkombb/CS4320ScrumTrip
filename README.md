@@ -1,6 +1,6 @@
 # CS4320 Scrum Trip
 
-[Flight Details](../CS 4320 Trip Project/FlightsFile.md)
+[Flight Details](FlightsFile.md)
 
 ## Members on the team:
 1.	Roland Oruche
