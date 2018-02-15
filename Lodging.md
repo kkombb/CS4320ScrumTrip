@@ -13,4 +13,4 @@
 _Air conditioning   Private bathroom   Flat-screen TV   Soundproof
 • Tea/Coffee maker  • Minibar  • Shower  • Safe  • Pay-per-view channels  • Telephone  • Hairdryer  • Iron  • Ironing facilities  • Sitting area  • Free toiletries  • Toilet  • Heating  • Cable channels  • Bathtub or shower  • Laptop safe  • Wake-up service  • iPod dock  • Towels  • Linens  • Toilet paper_
 
-![Hotel Details](https://github.com/kkombb/CS4320ScrumTrip/tree/master/Images/lodging.png "Hotel Details")
+![Hotel Details](https://github.com/kkombb/CS4320ScrumTrip/tree/feature/Lodging/Images/lodging.png "Hotel Details")
