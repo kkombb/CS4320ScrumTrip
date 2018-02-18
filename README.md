@@ -2,7 +2,21 @@
 
 [Flight Details](FlightsFile.md)
 
+[Lodging]
 
+[Day One Activities](Day 1 Activities.md)
+
+[Day Two Activities](dayTwoActivites.md)
+
+[Day Three Activities](DayThreeActivities&Food.md)
+
+[Day Four Activities]
+
+[Day Five Activities]
+
+[Day Six Activities]
+
+[Day Seven Activities](Day7Activities.md)
 
 [Budget](CS4320TripMasterBudget.md)
 
