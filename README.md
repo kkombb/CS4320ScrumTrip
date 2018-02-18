@@ -4,9 +4,9 @@
 
 [Lodging]
 
-[Day One Activities](Day 1 Activities.md)
+[Day One Activities]("Day 1 Activities.md")
 
-[Day Two Activities](dayTwoActivites.md)
+[Day Two Activities](dayTwoActivities.md)
 
 [Day Three Activities](DayThreeActivities&Food.md)
 
@@ -16,7 +16,7 @@
 
 [Day Six Activities]
 
-[Day Seven Activities](Day7Activities.md)
+[Day Seven Activities](Day7Activites.md)
 
 [Budget](CS4320TripMasterBudget.md)
 
