@@ -12,9 +12,9 @@
 
 [Day Four Activities](DayFourActivities.md)
 
-[Day Five Activities]
+[Day Five Activities](DayFiveActivities.md)
 
-[Day Six Activities]
+[Day Six Activities](DaySixActivities.md)
 
 [Day Seven Activities](Day7Activites.md)
 
