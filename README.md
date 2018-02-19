@@ -32,7 +32,7 @@
 1.	Roland Oruche
 2.	Joey Crowe
 3.	Kirtis Orendorff
-4.	Collin Stevens
+4.	Colin Stevens
 5.	Bruce Phommaly
 6.	Matt Barber
 
