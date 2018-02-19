@@ -4,7 +4,7 @@
 
 [Lodging]
 
-[Day One Activities](Day\ 1\ Activities.md)
+[Day One Activities](Day1Activities.md)
 
 [Day Two Activities](dayTwoActivities.md)
 
