@@ -10,7 +10,7 @@
 
 [Day Three Activities](DayThreeActivities&Food.md)
 
-[Day Four Activities]
+[Day Four Activities](DayFourActivities.md)
 
 [Day Five Activities]
 
