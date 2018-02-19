@@ -4,8 +4,8 @@
 #### Less:
 * Flights: $1,414.50
 * Lodging: $0
-* Meals: $520.94
-* Entertainment: $1244.00
-* Ground Transportation: $92.20
-#### Total: $2,606.64
-#### Budget Remaining: $9,393.36
+* Meals: $1096.94
+* Entertainment: $1901.00
+* Ground Transportation: $307.2
+#### Total: $4,719.64
+#### Budget Remaining: $7,280.36
