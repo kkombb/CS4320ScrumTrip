@@ -2,7 +2,21 @@
 
 [Flight Details](FlightsFile.md)
 
+[Lodging]
 
+[Day One Activities](Day1Activities.md)
+
+[Day Two Activities](dayTwoActivities.md)
+
+[Day Three Activities](DayThreeActivities&Food.md)
+
+[Day Four Activities](DayFourActivities.md)
+
+[Day Five Activities](DayFiveActivities.md)
+
+[Day Six Activities](DaySixActivities.md)
+
+[Day Seven Activities](Day7Activites.md)
 
 [Budget](CS4320TripMasterBudget.md)
 
@@ -18,7 +32,7 @@
 1.	Roland Oruche
 2.	Joey Crowe
 3.	Kirtis Orendorff
-4.	Collin Stevens
+4.	Colin Stevens
 5.	Bruce Phommaly
 6.	Matt Barber
 
