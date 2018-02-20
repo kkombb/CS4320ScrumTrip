@@ -5,7 +5,7 @@
 Cost: $30
 ### Afternoon Activities: The Met
 * Explore the Met
-* Suggested Donation of $12 a person
+* Donation of $10 a person
 * Total of $60
 ### Dinner: McDonalds in Times Square
 Cost: $75
