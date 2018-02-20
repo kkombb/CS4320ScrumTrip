@@ -2,7 +2,7 @@
 
 [Flight Details](FlightsFile.md)
 
-[Lodging]
+[Lodging](Lodging.md)
 
 [Day One Activities](Day1Activities.md)
 
