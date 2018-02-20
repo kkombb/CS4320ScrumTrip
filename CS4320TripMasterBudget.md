@@ -7,5 +7,5 @@
 * Meals: $1096.94
 * Entertainment: $1901.00
 * Ground Transportation: $307.2
-#### Total: $4,719.64
+#### Total: $10,641.64
 #### Budget Remaining: $1,358.36
